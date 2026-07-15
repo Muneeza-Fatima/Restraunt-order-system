@@ -57,7 +57,7 @@ HTML5
 
 CSS3
 
-JavaScript (Vanilla JS)
+JavaScript
 
 Font Awesome
 
